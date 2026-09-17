@@ -1,57 +1,56 @@
 # Lemon Jelly Café Landing Page
 
-A responsive single-page café website built with HTML and Tailwind CSS. The page showcases the café brand, menu highlights, customer reviews, location details, and visit information for a polished restaurant-style landing experience.
+This is a simple café website landing page made with HTML and Tailwind CSS. It shows a modern restaurant-style homepage with a hero section, menu highlights, reviews, location info, and contact details.
 
-## Overview
+## What this project includes
 
-This project is a front-end mockup for a modern café business. It includes:
+- A welcoming hero section with café branding
+- Navigation links to different sections
+- Featured menu items with prices
+- Customer review cards
+- Visit/location information
+- A responsive layout for desktop and mobile screens
 
-- Hero section with branding and navigation
-- Menu cards with pricing and descriptions
-- Customer testimonial section
-- Location and map embed
-- Visit details such as hours and contact information
-- Fully responsive layout for desktop and mobile screens
+## Project files
 
-## Tech Stack
+- index.html — main webpage content and design
+- README.md — project information
 
-- HTML5
-- Tailwind CSS via CDN
-- Google Fonts and image assets from Unsplash / public café imagery
+## How to run it
 
-## Project Structure
+1. Open the project folder.
+2. Open index.html in a browser.
+3. You can also use a local web server if needed.
 
-- `index.html` — main page structure and content
-- `README.md` — project documentation
+## Technologies used
 
+- HTML
+- Tailwind CSS
+- Google Fonts
+- Unsplash images
 
+## Easy customization
 
-## Customization
+You can change details like:
 
-You can easily update the content by editing the text and image URLs in `index.html`.
+- café name
+- hero text
+- menu items and prices
+- address and contact information
+- opening hours
+- colors and page styling
 
-Common things to customize:
+Open index.html and edit the text and image links directly.
 
-- Café name and hero text
-- Menu items and prices
-- Contact details and address
-- Opening hours
-- Brand colors and styling
+## Important note
 
-## Notes
+This is a practice project for Milestone 1. It is a front-end design project only and does not include a backend, login system, or database.
 
-This is a static front-end project intended for design and presentation purposes. It does not include backend functionality, database storage, or form processing.
+## Credits
 
-## License
+This project was created for learning and demo purposes. Some content and visuals were inspired by online sources and AI assistance.
 
-This project is for educational/demo purposes.
+## Author
 
-## Imp.
-This is only pracrice project of mileston 1.
-Source of images & Info. : AI, Internet.
-I also took a little help from AI wherever I was facing difficulties. 
-
-Thank You For your attention.
-Name : Anmol Tharwan 
-Batch Code : WSJP/140
-# lemoncafe
+Anmol Tharwan
+Batch Code: WSJP/140
